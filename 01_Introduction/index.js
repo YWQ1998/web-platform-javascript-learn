@@ -1,0 +1,1 @@
+console.log('外部 JS 文件')
